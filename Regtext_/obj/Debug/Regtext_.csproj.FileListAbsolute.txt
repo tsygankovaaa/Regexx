@@ -1,0 +1,7 @@
+C:\Users\Huawei\source\repos\Regtext_\Regtext_\bin\Debug\Regtext_.exe.config
+C:\Users\Huawei\source\repos\Regtext_\Regtext_\bin\Debug\Regtext_.exe
+C:\Users\Huawei\source\repos\Regtext_\Regtext_\bin\Debug\Regtext_.pdb
+C:\Users\Huawei\source\repos\Regtext_\Regtext_\obj\Debug\Regtext_.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\Regtext_\Regtext_\obj\Debug\Regtext_.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\Regtext_\Regtext_\obj\Debug\Regtext_.exe
+C:\Users\Huawei\source\repos\Regtext_\Regtext_\obj\Debug\Regtext_.pdb
