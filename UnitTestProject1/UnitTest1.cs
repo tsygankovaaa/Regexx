@@ -9,6 +9,7 @@ namespace UnitTestProject1
     public class UnitTest1
     {
         Regextext regtext = new Regextext();
+        string a = "12";
         //Class212 cl212 = new Regextext.Class212();
         [TestMethod]
         public void TestMethod1()
